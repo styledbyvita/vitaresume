@@ -298,6 +298,7 @@ hr {
 .exp {
 	font-size: 20px;
 	color: #90847c;
+	width: 50%;
 }
 .exp_title {
 	text-transform: uppercase;
